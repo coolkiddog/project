@@ -1,0 +1,455 @@
+.container{
+  height:144px;
+  width:1327px;
+  margin-left:75px;
+  float:left;
+  position:fixed;
+  background-color:white;
+  margin-top:10px;
+}
+.grayline{
+  height:2px;
+  width:1327px;
+  background-color:lightgray;
+}
+.header{
+  height:70px;
+  width:1200px;
+  background-color:white;
+  font:Oblique bold 60px Times, serif;
+  margin-left:250px;
+  display:flex;
+  align-items:center;
+  margin-top:35px;
+}
+.grayline2{
+  height:2px;
+  width:1327px;
+  background-color:lightgray;
+  margin-top:35px;
+}
+.Sites{
+  height:475px;
+  width:1000px;
+  background-color:white;
+  font:oblique 45px Times, serif;
+  margin-left:425px;
+  float:left;
+  margin-top:213px;
+  display:flex;
+  align-items:center;
+}
+.Line1{
+  height:2px;
+  width:1327px;
+  background-color:lightgray;
+  float:left;
+  margin-top:40px;
+  margin-left:75px;
+}
+.Site1{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:435px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.image1{
+  float:left;
+  margin-left:75px;
+  margin-top:55px;
+}
+.stop1{
+  float:right;
+  background-color:whitesmoke;
+  height:150px;
+  width:615px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:35px Times, serif;
+}
+.tour1{
+  float:right;
+  background-color:whitesmoke;
+  height:250px;
+  width:615px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:35px Times, serif;
+}
+.goldimg{
+  float:right;
+  background-color:whitesmoke;
+  height:250px;
+  width:615px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:35px Times, serif;
+}
+.image2{
+  float:right;
+  margin-right:200px;
+  margin-top:50px;
+}
+.theme1{
+  background-color:whitesmoke;
+  height:350px;
+  width:1327px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:35px Times, serif;
+  float:left;
+  margin-left:75px;
+
+}
+.Site2{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:500px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.image3{
+  float:left;
+  margin-left:75px;
+  margin-top:55px;
+}
+.stop2{
+  float:right;
+  background-color:whitesmoke;
+  height:150px;
+  width:500px;
+  margin-right:50px;
+  margin-top:175px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.tour2{
+  float:right;
+  background-color:whitesmoke;
+  height:300px;
+  width:700px;
+  margin-right:50px;
+  margin-top:115px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image4{
+  float:left;
+  margin-left:75px;
+  margin-top:55px;
+}
+.primary1{
+  float:right;
+  background-color:whitesmoke;
+  height:425px;
+  width:525px;
+  margin-right:50px;
+  margin-top:115px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image5{
+  float:left;
+  margin-left:75px;
+  margin-top:55px;
+}
+.theme2{
+  float:right;
+  background-color:whitesmoke;
+  height:750px;
+  width:525px;
+  margin-right:50px;
+  margin-top:40px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.Site3{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:500px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.image6{
+  float:left;
+  margin-left:75px;
+  margin-top:55px;
+}
+.stop3{
+  float:right;
+  background-color:whitesmoke;
+  height:150px;
+  width:700px;
+  margin-right:50px;
+  margin-top:200px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.tour3{
+  float:right;
+  background-color:whitesmoke;
+  height:175px;
+  width:700px;
+  margin-right:50px;
+  margin-top:200px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image7{
+  float:right;
+  margin-right:50px;
+  margin-top:125px;
+}
+.explain1{
+  float:left;
+  background-color:whitesmoke;
+  height:375px;
+  width:650px;
+  margin-left:75px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image8{
+  float:right;
+  margin-right:185px;
+  margin-top:50px;
+}
+.primary2{
+  float:left;
+  background-color:whitesmoke;
+  height:430px;
+  width:650px;
+  margin-left:75px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.theme3{
+  float:left;
+  background-color:whitesmoke;
+  height:200px;
+  width:1327px;
+  margin-left:75px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.site4{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:600px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.image9{
+  float:left;
+  margin-left:75px;
+  margin-top:50px;
+}
+.stop4{
+  float:right;
+  background-color:whitesmoke;
+  height:375px;
+  width:400px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image10{
+  float:left;
+  height:500px;
+  width:450px;
+  margin-left:75px;
+  margin-top:50px;
+}
+.tour4{
+  float:right;
+  background-color:whitesmoke;
+  height:300px;
+  width:800px;
+  margin-right:50px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.theme4{
+  float:left;
+  background-color:whitesmoke;
+  height:350px;
+  width:1327px;
+  margin-left:75px;
+  margin-top:50px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.fort{
+  float:left;
+  height:10px;
+  width:1327px;
+  margin-left:75px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.Site5{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:600px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.image11{
+  height:400px;
+  width:650px;
+  float:left;
+  margin-left:75px;
+  margin-top:50px;
+}
+.image12{
+  height:500px;
+  float:left;
+  margin-left:75px;
+  margin-top:50px;
+}
+.stop5{
+  float:right;
+  background-color:whitesmoke;
+  height:200px;
+  width:650px;
+  margin-right:50px;
+  margin-top:150px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.tour5{
+  float:right;
+  background-color:whitesmoke;
+  height:475px;
+  width:550px;
+  margin-right:50px;
+  margin-top:75px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image13{
+  height:500px;
+  float:right;
+  margin-right:350px;
+  margin-top:50px;
+}
+.primary3{
+  float:left;
+  background-color:whitesmoke;
+  height:175px;
+  width:1327px;
+  margin-left:75px;
+  margin-top:75px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.image14{
+  float:left;
+  margin-left:75px;
+  margin-top:50px;
+  width:1250px;
+  height:150px;
+}
+.theme5{
+  float:left;
+  background-color:whitesmoke;
+  height:250px;
+  width:1327px;
+  margin-left:75px;
+  margin-top:75px;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  font:32px Times, serif;
+}
+.sources{
+  height:50px;
+  width:700px;
+  background-color:white;
+  font:oblique bold 50px Times, serif;
+  margin-left:650px;
+  float:left;
+  margin-top:55px;
+  display:flex;
+  align-items:center;
+}
+.sourcecontainer{
+  height:1000px;
+  margin-top:50px;
+  width:1327px;
+  margin-left:75px;
+  float:left;
+  background-color:white;
+  text-align:center;
+  font:32px Times, serif;
+}
